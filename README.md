@@ -1,4 +1,4 @@
-# PowerBI
+# PowerBI (Completed)
 
 * This dashboard was created using fake sales data. Simple Power BI dashboard using excel as the to pull data.
 
